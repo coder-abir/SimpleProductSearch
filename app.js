@@ -14,6 +14,6 @@ const search = () => {
                 product[i].style.display="none"; 
             }
         }
-    }
-}
+    } 
+} 
  
